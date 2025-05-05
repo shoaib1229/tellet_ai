@@ -1,0 +1,3 @@
+Style Tag #,Category,Rules Count,Has Media Queries,Has Animations,Has Transitions,Size (chars)
+1,Layout,3,False,False,False,219
+2,Reset/Normalize,1114,True,False,False,239473

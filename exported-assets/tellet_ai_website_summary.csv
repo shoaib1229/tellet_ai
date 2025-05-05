@@ -1,0 +1,14 @@
+Category,Key,Value
+HTML,Total Size,"1,193,279 characters"
+HTML,Common Elements,"div (2680), p (404), img (240), span (139)"
+HTML,Document Structure,"Built with Framer, uses modern HTML5 structure with 37 unique elements"
+CSS,Style Tags & Rules,"2 style tags with approximately 1,117 CSS rules"
+CSS,Inline Styles,"2,872 elements with inline styles (color, width, display most common)"
+CSS,Class Structure,"569 unique CSS classes, primarily using framer-* naming pattern"
+JavaScript,Script Tags,"10 total (4 external, 6 inline)"
+JavaScript,Functionality,"Analytics, Framer Framework, User Tracking (Hotjar)"
+JavaScript,Interactivity,"Basic event listeners (click, keydown), minimal DOM manipulation"
+Content,Main Sections,"Header, Value Propositions, How It Works, Testimonials, Call to Action"
+Content,Key Messages,"AI interviews, multi-language support, quick analysis, rich voice/video responses"
+Overall,Technology & Performance,Framer-built site with heavy page weight (1.1MB+)
+Overall,Design & Accessibility,"Modern responsive design using media queries, semantic HTML elements"

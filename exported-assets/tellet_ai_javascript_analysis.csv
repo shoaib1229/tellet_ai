@@ -1,0 +1,19 @@
+Script #,Type,External,Source URL,ID,Async,Defer,Estimated Purpose,Content Length,Content Preview
+1,No type (standard JS),False,,No ID,False,False,User Behavior Tracking,391,"(function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:4994635,hjsv:6};
+        a=..."
+2,No type (standard JS),False,,No ID,False,False,Analytics (Google),346,"(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createEleme..."
+3,text/javascript,True,//js-eu1.hs-scripts.com/143279925.js,hs-script-loader,True,True,Unknown,0,
+4,No type (standard JS),True,https://www.googletagmanager.com/gtag/js?id=G-YWT35HQSHW,No ID,True,False,Analytics (Google),0,
+5,No type (standard JS),False,,No ID,False,False,Unknown,170,"window.dataLayer = window.dataLayer || [];
+      function gtag(){window.dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('confi..."
+6,No type (standard JS),True,https://events.framer.com/script?v=1,No ID,True,False,Framer Framework,0,
+7,No type (standard JS),False,,No ID,False,False,Analytics (Google),1140,"(()=>{function u(){function n(t,e,i){let r=document.createElement(""a"");r.href=t,r.target=i,r.rel=e,document.body.appendChild(r),r.click(),r.remove()}f..."
+8,No type (standard JS),False,,No ID,False,False,Framer Framework,317,"(()=>{function i(){for(let e of document.querySelectorAll(""[data-framer-original-sizes]"")){let t=e.getAttribute(""data-framer-original-sizes"");t===""""?e..."
+9,No type (standard JS),False,,No ID,False,False,Unknown,0,
+10,module,True,https://framerusercontent.com/sites/3Is5K7i4AyXHrMhwOrinsc/script_main.G6A7SBWR.mjs,No ID,True,False,Framer Framework,0,
